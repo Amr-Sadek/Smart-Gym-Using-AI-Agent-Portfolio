@@ -4,17 +4,25 @@
 
 ### AI-Powered Smart Gym Management Mobile Application
 
-<img src="assets/banner.png" width="100%">
-
-<br>
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+<br>
+
+<a href="#-application-screenshots">
+    <img src="https://img.shields.io/badge/View-Screenshots-orange?style=for-the-badge">
+</a>
+
+<a href="#-download-apk">
+    <img src="https://img.shields.io/badge/Download-APK-success?style=for-the-badge">
+</a>
+
 </div>
+
+---
 
 ## 📖 Project Overview
 
@@ -39,9 +47,21 @@ The project focuses on improving both gym member engagement and operational effi
 | 📊 Attendance | QR-based attendance tracking |
 | 👤 Profile | Manage user profile and subscription |
 
+## 🛠 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Mobile | Flutter, Dart |
+| Backend Integration | REST API |
+| Database | SQL Server |
+| Authentication | JWT |
+| Local Storage | SharedPreferences |
+| IDE | Android Studio, VS Code |
+| Version Control | Git & GitHub |
+
 ## 👨‍💻 My Contribution
 
-As the Flutter Developer of the project, I was responsible for developing the complete mobile application, including:
+As the Flutter Developer of the Smart Gym Using AI Agent project, I was responsible for designing, developing, and maintaining the complete Flutter mobile application, ensuring a responsive user experience and seamless integration with backend services.
 
 - Designing and implementing the UI/UX.
 - Developing all Flutter screens.
@@ -56,29 +76,6 @@ As the Flutter Developer of the project, I was responsible for developing the co
 - Responsive layouts.
 - Application testing and debugging.
 
-## 🛠 Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| Mobile | Flutter, Dart |
-| Backend Integration | REST API |
-| Database | SQL Server |
-| Authentication | JWT |
-| Local Storage | SharedPreferences |
-| IDE | Android Studio, VS Code |
-| Version Control | Git & GitHub |
-
----
-
-# 📱 Mobile Application
-
-The mobile application was developed using **Flutter** to deliver a smooth, responsive, and modern cross-platform experience.
-
-It provides an intelligent digital platform that enables gym members to manage their fitness journey from a single application, while allowing coaches to monitor progress and communicate efficiently.
-
-The application focuses on usability, performance, and an intuitive user interface, ensuring a seamless experience across different mobile devices.
-
----
 ---
 
 # 📸 Application Screenshots
@@ -125,3 +122,29 @@ The mobile application communicates with backend services through REST APIs to p
     <img src="assets/System_Architecture.png" width="90%">
 </p>
 
+---
+
+# 📥 Download APK
+
+The Android application package (APK) will be available in the **Releases** section.
+
+You can download, install, and explore the application on any Android device.
+
+---
+
+# 📬 Contact
+
+**Amr Sadek**
+
+Flutter Developer
+
+- GitHub: https://github.com/Amr-Sadek
+- Email: amrsadek510@gmail.com
+
+---
+
+<div align="center">
+
+⭐ If you found this project interesting, please consider giving it a star.
+
+</div>
