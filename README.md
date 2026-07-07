@@ -79,3 +79,38 @@ It provides an intelligent digital platform that enables gym members to manage t
 The application focuses on usability, performance, and an intuitive user interface, ensuring a seamless experience across different mobile devices.
 
 ---
+---
+
+# 📸 Application Screenshots
+
+## 👤 Customer Application
+
+| Welcome | Login | Home |
+|---------|-------|------|
+| <img src="screenshots/customer/First Page.png" width="220"/> | <img src="screenshots/customer/Login.png" width="220"/> | <img src="screenshots/customer/Home Page.png" width="220"/> |
+
+| Booking | AI Workout | AI Meal Plan |
+|----------|------------|--------------|
+| <img src="screenshots/customer/Booking_tools.png" width="220"/> | <img src="screenshots/customer/Workout_Plan.jpg" width="220"/> | <img src="screenshots/customer/Meal_Plan.jpg" width="220"/> |
+
+| Shop | Profile | Chat with Coach |
+|------|----------|-----------------|
+| <img src="screenshots/customer/Shop.png" width="220"/> | <img src="screenshots/customer/Profile.png" width="220"/> | <img src="screenshots/customer/Chat_With_Coach.png" width="220"/> |
+
+---
+
+## 👨‍🏫 Coach Application
+
+| Home | Attendance | Customer Tracking |
+|------|------------|-------------------|
+| <img src="screenshots/coach/Coach_Home_page.png" width="220"/> | <img src="screenshots/coach/Attendance_Tracking.png" width="220"/> | <img src="screenshots/coach/Tracking_Customers.png" width="220"/> |
+
+---
+
+## 🖥️ Admin Dashboard
+
+| Dashboard | Add Coach | Shop Tools |
+|-----------|-----------|------------|
+| <img src="screenshots/admin/Admin_Home_Page.png" width="220"/> | <img src="screenshots/admin/Add_Coach.png" width="220"/> | <img src="screenshots/admin/Admin_Shop_tools.png" width="220"/> |
+
+> 📁 Additional screenshots are available in the `screenshots` folder.
