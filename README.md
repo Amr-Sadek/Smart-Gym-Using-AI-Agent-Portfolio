@@ -114,3 +114,14 @@ The application focuses on usability, performance, and an intuitive user interfa
 | <img src="screenshots/admin/Admin_Home_Page.png" width="220"/> | <img src="screenshots/admin/Add_Coach.png" width="220"/> | <img src="screenshots/admin/Admin_Shop_tools.png" width="220"/> |
 
 > 📁 Additional screenshots are available in the `screenshots` folder.
+
+---
+
+# 🏗️ System Architecture
+
+The mobile application communicates with backend services through REST APIs to provide authentication, booking, AI-powered recommendations, attendance tracking, and real-time gym management.
+
+<p align="center">
+    <img src="assets/System_Architecture.png" width="90%">
+</p>
+
