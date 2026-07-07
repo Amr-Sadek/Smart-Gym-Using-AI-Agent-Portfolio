@@ -126,11 +126,16 @@ The mobile application communicates with backend services through REST APIs to p
 
 # 📥 Download APK
 
-The Android application package (APK) will be available in the **Releases** section.
+The Android application package (APK) is available in the **Releases** section.
 
-You can download, install, and explore the application on any Android device.
+<p align="center">
 
----
+<a href="https://github.com/Amr-Sadek/Smart-Gym-Using-AI-Agent-Portfolio/releases/latest">
+<img src="https://img.shields.io/badge/Download-Latest_APK-success?style=for-the-badge&logo=android">
+
+</a>
+
+</p>
 
 # 📬 Contact
 
